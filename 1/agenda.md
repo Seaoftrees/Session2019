@@ -18,7 +18,7 @@
 他OS(Windows7, MaxOS, Linux, Sorarisとか)使ってる人はGoogle先生と根性で何とかしてください
 
 ---
-## 1. Bash on Ubuntuのインストール
+# 1. Bash on Ubuntuのインストール
 ### 1.1 Ubuntuのインストール
 左下のスタートボタンから「Microsoft Store」を調べて起動する  
 右上の検索欄に「Ubuntu」と入れて検索する  
@@ -32,7 +32,7 @@
 Windowsの機能ウィンドウの中の「Windows Subsystem for Linux」の項目を見つけチェックを入れる  
 「OK」を押すと勝手になんかやってくれるので、それが終わり次第再起動
 
-## 2. Bash on UbuntuのセットアップとPythonのインストール
+# 2. Bash on UbuntuのセットアップとPythonのインストール
 ### 2.1 Bash on Ubuntuのセットアップ
 再起動が終わったら、左下のスタートボタンを押して「Ubuntu」と調べて起動する  
 > Installing, this may take a few minutes...
@@ -81,7 +81,7 @@ sudoというコマンドはWindowsでいう管理者権限なのでこういう
 同様に以下のメッセージが出てきたら「y」を入力してEnterを押す  
 >Do you want to continue? [Y/n]
 
-## 2.3 Pythonのインストール
+### 2.3 Pythonのインストール
 以下のコマンドを実行する。以上  
 `$ sudo apt install python`    
 同様に以下のメッセージが表示されたら「y」を入力してEnterを押す

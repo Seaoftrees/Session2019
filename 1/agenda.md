@@ -94,7 +94,7 @@ Do you want to continue? [Y/n]
 > Python 3.6.5  
 
 
-## 3. VS Codeのインストール
+# 3. VS Codeのインストール
 [VSCodeの公式ページ](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)からインストーラをダウンロードしてインストール  
 このとき、PATHを通しておくみたいなところにチェックを入れると楽かもしれません
 

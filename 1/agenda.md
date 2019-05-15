@@ -54,7 +54,7 @@ Enter new UNIX username:
 と出てくるので、同じパスワードを入力(確認用)
 >sea@DESKTOP-BC0RMNS:~$ 
 
-と出てきたら成功。(seaは私のユーザー名、DESKTOP-BC0RMNSは私のデバイス名なので異なって入れ大丈夫)  
+と出てきたら成功。(seaは私のユーザー名、DESKTOP-BC0RMNSは私のデバイス名なので異なっていても大丈夫)  
 
 ### 2.2 Ubuntuの更新
 Bash on Ubuntu(以下bash)上で、以下のようにコマンドを実行  ($ は入力しなくてよい)  
@@ -119,7 +119,7 @@ Do you want to continue? [Y/n]
 > 5.3 エクスプローラ上部の「表示」タブをクリックし、右寄りにある「ファイル名拡張子」のチェックボックスにチェックを入れる(※Win10の場合)
 
 # 6. Python3で「Hello, World!」を出力する
-コマンドプロンプトを起動して `python` と打ちます  
+スタートからubuntuを起動して `python3` と打ちます  
 そして以下を入力します(`>>>`は入力しなくていい)  
 ```python:helloworld.py
 >>> print("Hello, World!")
@@ -194,4 +194,4 @@ Do you want to continue? [Y/n]
 # お疲れ様です
 第一回の講義はここまでです。  
 Google先生で「python math」とかでggると平方根とか対数とかいろいろ計算できます。  
-これでPythonは立派な計算機です(?)
+これでPythonは立派な計算機です ~~(python -c ?知らない子ですね)~~

@@ -285,3 +285,24 @@ namespace ForStatement
 
 以上、本日もお疲れちゃんでした。
 次回はlistを扱うので、for文とかでてくるよん
+
+# 付録：今までの構文まとめ
+## if文
+```py
+if 条件式:
+   文
+elif 条件式:
+   文
+else:
+   文
+```
+## for文
+```py
+for i in range(回数):
+   文
+```
+### while文
+```py
+while 条件式:
+   文
+```

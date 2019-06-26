@@ -37,7 +37,7 @@ print("おわり！")
 ~~(だから彼女いない歴=年齢をすると0歳のとき彼女いた事になるんやで)~~  
 Pythonのfor文は`for 変数名 in range(回数)`とすることで、指定した回数だけ繰り返し、iの中に何回ループしたかを記録してくれます！(もちろん0から数えることに注意)  
   
-pythonのfor文化これだけですごい簡単ですが、おまけ目標の「他の言語のfor文」についてなれることをおすすめします。単位的に。  
+pythonのfor文はこれだけですごい簡単ですが、おまけ目標の「他の言語のfor文」についてなれることをおすすめします。単位的に。  
 
 では試しに、1~nまでの数字の和(三角数といいます) を求めるプログラムを作ってみましょう。  
 ここで、nはプログラム実行時に入力するものです。`n = int(input(">> "))`的なのを使います。  
@@ -246,10 +246,10 @@ void main(){
 ### Java
 ```java
 public class ForStatement{
-   public static void main(){
-      for(int i=0; i<10; i++){
-         System.out.println(i);
-      }
+   public static void main(String[] args){
+     for(int i=0; i<10; i++){
+        System.out.println(i);
+     }
    }
 }
 ```
@@ -301,7 +301,7 @@ else:
 for i in range(回数):
    文
 ```
-### while文
+## while文
 ```py
 while 条件式:
    文

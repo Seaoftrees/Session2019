@@ -1,7 +1,7 @@
 def printList(list):
    elements = ""
    for e in list:
-      elements += (" " + e)
+      elements += (" " + int(e))
    print(elements)
 
 primes = [2, 3, 5, 7, 11, 13] #これがlistの宣言

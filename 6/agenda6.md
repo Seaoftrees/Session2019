@@ -29,7 +29,7 @@
 上記のサイトに加え、[PythonのslackbotライブラリでSlackボットを作る](https://qiita.com/sukesuke/items/1ac92251def87357fdf6) も参考に作っていきます。  
 
 ## 2.1 APIトークンの発行
-(ココ)[https://api.slack.com/]にアクセスし、`Start Building`をクリック  
+[ココ](https://api.slack.com/)にアクセスし、`Start Building`をクリック  
 
 `Create a Slack App`というのが出てきます。`App Name`のところにBOTの名前を、  `Development Slack Workspace`のところで、先ほど作ったワークスペースを選択します  
 これらができれば`Create App`を押します  
